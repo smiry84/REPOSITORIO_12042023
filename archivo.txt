@@ -1,0 +1,16 @@
+total 648159
+drwxr-xr-x 1 Curso Tarde 197121         0 Apr 12 11:33 ./
+drwxr-xr-x 1 Curso Tarde 197121         0 Apr 12 11:28 ../
+-rwxr-xr-x 1 Curso Tarde 197121      1088 Mar 30 13:21 Cisco Packet Tracer.lnk*
+-rwxr-xr-x 1 Curso Tarde 197121      2280 Mar  1 19:01 Google Chrome.lnk*
+drwxr-xr-x 1 Curso Tarde 197121         0 Apr 12 11:31 PREOYECTOVERO/
+-rw-r--r-- 1 Curso Tarde 197121       104 Apr 11 09:18 RESPALDO.CMD
+-rw-r--r-- 1 Curso Tarde 197121       949 Apr 11 09:56 RESPALDO_FECHA.CMD
+-rwxr-xr-x 1 Curso Tarde 197121   4290992 Apr  3 09:00 SQL2022-SSEI-Eval.exe*
+-rwxr-xr-x 1 Curso Tarde 197121 659373600 Apr  4 13:41 SSMS-Setup-ENU.exe*
+-rw-r--r-- 1 Curso Tarde 197121       115 Apr 11 11:18 TAREA.CMD
+drwxr-xr-x 1 Curso Tarde 197121         0 Apr 11 09:08 TRABAJANDO/
+-rwxr-xr-x 1 Curso Tarde 197121      1470 Mar 21 13:21 Visual Studio Code.lnk*
+-rw-r--r-- 1 Curso Tarde 197121         0 Apr 12 11:33 archivo.txt
+-rw-r--r-- 1 Curso Tarde 197121       282 Aug 25  2022 desktop.ini
+drwxr-xr-x 1 Curso Tarde 197121         0 Apr 11 09:08 veronica/
